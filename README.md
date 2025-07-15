@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/cb046098-807c-4ec8-96f1-688ec4a8250c
+
+
+
+https://github.com/user-attachments/assets/995857df-fc59-4596-9e32-5d26512795c2
+
 # AIML_MINI_PROJECT
 A simple yet powerful movie recommender system built using Streamlit, combining both collaborative filtering and content-based filtering to provide personalized movie suggestions. This project uses the MovieLens 100K dataset and runs entirely on your local machine with a clean, interactive UI.
 
@@ -39,3 +47,5 @@ We used the [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/10
 
 ## [click here to view code]
 https://github.com/DeekshithaRM/AIML_MINI_PROJECT/blob/main/AIML_MINI_PROJECT.pdf
+
+
