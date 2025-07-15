@@ -36,3 +36,6 @@ We used the [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/10
    ```bash
    pip install streamlit pandas scikit-learn
 4.Run the Streamlit App
+
+## [click here to view code]
+https://github.com/DeekshithaRM/AIML_MINI_PROJECT/blob/main/AIML_MINI_PROJECT.pdf
